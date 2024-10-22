@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009036157346",
+    "project_id": "ianpublicgallery",
+    "storage_bucket": "ianpublicgallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009036157346:android:ac3266813911445092d2fb",
+        "android_client_info": {
+          "package_name": "com.ianpublicgallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp_bN8g7ULbaJ7k2nZXzP4dpI0GgtamiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
